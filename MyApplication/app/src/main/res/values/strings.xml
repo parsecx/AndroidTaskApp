@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="next">next</string>
+    <string name="hy_bro">Hy, Bro</string>
+    <string name="input_error_login_or_password">Input error login or password</string>
+    <string name="email_page">EmailPage</string>
+    <string name="bannyk_private">user_profile_page</string>
+    <string name="input_email_from_registration">Input email from registration</string>
+    <string name="email">Email</string>
+    <string name="ok">ok</string>
+    <string name="error_email">Error email</string>
+    <string name="add">add</string>
+    <string name="description">Описание</string>
+    <string name="title">Название</string>
+    <string name="delete">delete</string>
+    <string name="error">error</string>
+</resources>
